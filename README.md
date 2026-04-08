@@ -1,9 +1,7 @@
 # 823-Signal-System-Notes
 Personal notes for CUC 823 Signal and System
 ## 备考策略 | OS Rhythm
-- **周六**: 数学巅峰区 (08:30-12:00)
-- **周日**: 823维护时段 (09:00-10:00)
-- **目标**: 初试350分 (数学90+英语70+专业课135+政治55)
+
 
 ## 章节进度
 - [ ] Chapter 1: 绪论
